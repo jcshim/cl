@@ -7,7 +7,7 @@ computer language
 * Stackoverflow
 * Tiobe
 
-[어떤 언어로 시작해야 할까요?](https://medium.com/code-states/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EC%99%80-%EC%BD%94%EB%94%A9-2-%EC%96%B4%EB%96%A4-%EC%96%B8%EC%96%B4%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0%EA%B9%8C-cda05c66e341)
+(어떤 언어로 시작해야 할까요?)](https://medium.com/code-states/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EC%99%80-%EC%BD%94%EB%94%A9-2-%EC%96%B4%EB%96%A4-%EC%96%B8%EC%96%B4%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0%EA%B9%8C-cda05c66e341)
 1) 웹개발: 자바스크립트, HTML, CSS, jQuery
 2) 앱개발: Java(or Kotlin), Swift
 3) 인공지능: 파이썬
@@ -16,7 +16,7 @@ computer language
 * Java와 Java Script는 어떻게 다를까?
 * 게임을 만들고 싶으면 어떤 언어가 제일 좋을까?
 
-(왜? 프로그래밍을 배워야 하는가?)[http://schoolofweb.net/blog/posts/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80/]
+[왜? 프로그래밍을 배워야 하는가?](http://schoolofweb.net/blog/posts/%EC%99%9C-%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80/)
 
 잡스의 인터뷰: "이 나라의 모든 사람은 프로그램을 공부해야한다. 프로그래밍은 생각하는 방법을 가르쳐주기 때문이다. 이것은 마치 법대에서 법을 공부하면 모든 사람들이 변호사가 되지는 못해도 생각하는 방법을 배우게되는 것과 마찬가지이다. 프로그래밍도 법을 공부하는 것과는 조금 다르지만 생각하는 방법을 가르쳐준다. 나는 컴퓨터 프로그래밍이 미술이나 역사와 같은 교양 과목으로 채택되어 모든 사람들이 최소한 1년 정도는 공부해야 한다고 생각한다."
 
