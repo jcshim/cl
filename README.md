@@ -44,3 +44,9 @@ Java의 특징
 - 컴퓨터 기종이나 운영체제와 무관한 응용 프로그램의 개발 도구(가상 바이트 머신 코드를 생성)로 각광 받음
 - 멀티스레드를 지원하고 각각의 스레드는 독립적으로 동시에 다른 일을 처리
 
+Go언어
+* [왜 구글의 프로그래밍 언어 Go가 겁나 핫한건지 5분 설명](https://youtu.be/VDaMhtWNSQU)
+* [실습해보기](https://go-tour-kr.appspot.com/#1)
+
+[프로그래밍 언어와 샐러리 Salary and Experience by Language](https://insights.stackoverflow.com/survey/2019)
+* https://clojure.org/
