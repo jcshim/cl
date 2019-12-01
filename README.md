@@ -48,5 +48,6 @@ Go언어
 * [왜 구글의 프로그래밍 언어 Go가 겁나 핫한건지 5분 설명](https://youtu.be/VDaMhtWNSQU)
 * [실습해보기](https://go-tour-kr.appspot.com/#1)
 
-[프로그래밍 언어와 샐러리 Salary and Experience by Language](https://insights.stackoverflow.com/survey/2019)
+[프로그래밍 언어와 샐러리 Salary and Experience by Language](https://insights.stackoverflow.com/survey/2019#work-_-salary-and-experience-by-developer-type)
+* https://insights.stackoverflow.com/survey/2019
 * https://clojure.org/
